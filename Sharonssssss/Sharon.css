@@ -1,0 +1,20 @@
+* { margin: 10px;
+font-family: 'Courier New', Courier, monospace; }
+.Preparation{ 
+color: red;
+text-transform: uppercase;
+font-size: larger;}
+
+.steps{line-height: 27.5px;
+list-style-type: none;
+ margin-bottom: 1px; 
+font-size: x-large;
+font-weight: bolder;}
+body {background-image: url(Food.jpg);
+background-position: absolute;
+background-repeat: no-repeat;
+background-size: cover;
+background-color: lightblue;}
+p {font-size: 25px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+img{border-radius: 150px;}
